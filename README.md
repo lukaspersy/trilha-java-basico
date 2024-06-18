@@ -3,7 +3,6 @@
 ```mermaid
 classDiagram
     class iPhone {
-        +String modelo
         +ReprodutorMusical reprodutor
         +AparelhoTelefonico telefone
         +NavegadorInternet navegador
