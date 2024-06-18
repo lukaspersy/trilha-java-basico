@@ -1,6 +1,6 @@
 ## Diagrama de Classe
 
-
+```mermaid
 classDiagram
     class iPhone {
         +String modelo
@@ -30,3 +30,5 @@ classDiagram
     iPhone -- ReprodutorMusical : has-a
     iPhone -- AparelhoTelefonico : has-a
     iPhone -- NavegadorInternet : has-a
+
+    ```
